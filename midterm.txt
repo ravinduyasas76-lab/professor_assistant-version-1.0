@@ -1,0 +1,60 @@
+Q1: What is the personal computer operating system that organizes and uses a graphic desktop  environment?
+Answer: Windows
+
+Q2: What do we use to change the appearance and positioning of text document in MS Word?
+Answer: Formatting
+
+Q3: No. of different characters in ASCII coding system?
+Answer: 1024
+
+Q4: Joshy, Perfumes are examples of __?
+Answer: Viuses
+
+Q5: Large transaction processing systems in automated organisations use__?
+Answer: Batch Processing
+
+Q6: Scientific Name of Computer?
+Answer: Sillico sapiens
+
+Q7: Refresh Rate of monitor is measured in?
+Answer: Hertz
+
+Q8: The geometric arrangement of devices on the network is called...........?
+Answer: Topology
+
+Q9: Which type of storage device is a BIOS ?
+Answer: Primary
+
+Q10: The technology that stores only essential instructions on a microprocessor chip and thus enhances its speed is referred as__?
+Answer: RISC
+
+Q11: What are Light pen and joystick ?
+Answer: Input Devices
+
+Q12: A computer program that converts an entire program into machine language atone time is called__?
+Answer: Characters
+
+Q13: What is the functional key to display save-as box?
+Answer: F12
+
+Q14: What is the extension type of the excel 2007 files?
+Answer: .xlsx
+
+Q15: Help Menu is available at which button?
+Answer: Start
+
+Q16: Something which has easily understood instructions is said to be..........?
+Answer: Analog Data
+
+Q17: A program that performs a useful task while simultaneously allowing destructive acts is __?
+Answer: Trojan Horse
+
+Q18: Which of the following commands is given to reboot the computer?
+Answer: Ctrl+Alt+Del
+
+Q19: MSIC stands for _?
+Answer: Medium Scale Integrated Circuits
+
+Q20: Full form of NOS ?
+Answer: Network Operating system
+
